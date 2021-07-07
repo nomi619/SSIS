@@ -6,7 +6,7 @@ Using bank churners dataset from kaggle https://www.kaggle.com/syviaw/bankchurne
 
 Goal is to find distribution of income_category
 
-Foolowing is the SSIS data flow  
+Folowing is the SSIS data flow  
 
 ![Alt text](<images/data_flow.PNG>)  
 
